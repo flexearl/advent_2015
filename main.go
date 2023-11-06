@@ -6,5 +6,5 @@ func main() {
 	//content, err := os.ReadFile("Day_5/Day_5.txt")
 
 	//data := string(content)
-	Day_6.Part_1("ugknbfddgicrmopn")
+	Day_6.Part_2("ugknbfddgicrmopn")
 }
